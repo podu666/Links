@@ -1,0 +1,41 @@
+.ver {
+    position: relative;
+    left: 1000px;
+    top: 30px;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+.tabl {
+    position: relative;
+    top: -120px;
+    left: 25px;
+}
+.foto1 {
+    position: relative;
+    top: -150px;
+    left: 800px;
+}
+table {
+    width: 30%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 3px;
+}
+th {
+    background-color: lightblue;
+}
+.header {
+    background-color: lightcoral;
+    font-weight: bold;
+}
+.highlight {
+    background-color: yellow;
+}
+.cont {
+    position: relative;
+    left: 680px;
+}

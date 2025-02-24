@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.map {
+    position: relative;
+    display: inline-block;
+}
+.city {
+    position: absolute;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+#minsk { top: 43%; left: 50%; }
+#gomel { top: 80%; left: 79%; }
+#vitebsk { top: 10%; left: 75%; }
+#grodno { top: 30%; left: 10%; }
+#mogilev { top: 50%; left: 78%; }
+
+.foto {
+    position: relative;
+    border-color: black;
+    border: 5px solid black;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
